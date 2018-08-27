@@ -1,0 +1,1 @@
+"D:\ShahinKhaled\Software\PortableGit\git-bash.exe" "--cd=D:\ShahinKhaled\codes\project\cv"
